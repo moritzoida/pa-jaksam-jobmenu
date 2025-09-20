@@ -2,6 +2,7 @@
 A FiveM ESX NativeUI job menu for the Jaksam Jobcreator.
 
 How to Install:
+
 Step 1: Download the script.
 Step 2: Extract it and rename the folder from pa-jaksam-jobmenu to pa-[jobname].
 Step 3: Adjust the config to your liking.
