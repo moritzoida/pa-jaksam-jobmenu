@@ -17,4 +17,4 @@ End: Have fun!
 
 Discord - https://discord.gg/EKyPk4QbgD
 
-I have the explicit permission of Jaksam, the developer of the Jobcreator, to release this script. However, the script is not directly affiliated with Jaksam, and he assumes no responsibility for it. All responsibility for this script lies with Project Alpha.
+I have the explicit permission of Jaksam, the developer of the Jobcreator, to release this script. However, this release is unofficial and not directly affiliated with Jaksam. He assumes no responsibility for it. All responsibility for this script lies with Project Alpha.
